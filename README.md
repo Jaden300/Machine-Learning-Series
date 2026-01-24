@@ -12,3 +12,4 @@ The purpose is to uncover patterns, correlations, and key findings that assists 
 
 ## Acknowledgments
 Methods and workflow inspired by the IBM ML Learning Professional Certificate on Coursera.
+This project uses the Heart Disease dataset licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) from Kaggle. The data has been cleaned and analyzed using EDA techniques.
