@@ -51,6 +51,10 @@ Applies dimensionality reduction and clustering to both tabular and image data, 
 
 ---
 
+## Acknowledgments
+
+Methods and workflow inspired by the [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) on Coursera.
+
 ## Technologies
 
 `Python` `scikit-learn` `pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `XGBoost` `SciPy` `Statsmodels` `OpenCV` `KaggleHub`
