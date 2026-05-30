@@ -1,6 +1,6 @@
 # Machine Learning Series
 
-A progressive series of machine learning projects in Python, covering the full supervised and unsupervised learning workflow — from exploratory data analysis through classification, regression, and clustering.
+A progressive series of machine learning projects in Python, covering the full supervised and unsupervised learning workflow - from exploratory data analysis through classification, regression, and clustering.
 
 **Author:** J. Wong
 
@@ -16,7 +16,7 @@ A progressive series of machine learning projects in Python, covering the full s
 ## Projects
 
 ### 1. Exploratory Data Analysis
-**Dataset:** [Heart Disease — Kaggle (Neurocipher)](https://www.kaggle.com/datasets/neurocipher/heartdisease/data)
+**Dataset:** [Heart Disease - Kaggle (Neurocipher)](https://www.kaggle.com/datasets/neurocipher/heartdisease/data)
 
 Comprehensive EDA on a 270-patient heart disease dataset. Covers data cleaning, correlation analysis, feature engineering, PCA, and frequentist hypothesis testing across four hypotheses.
 
@@ -25,7 +25,7 @@ Comprehensive EDA on a 270-patient heart disease dataset. Covers data cleaning, 
 ---
 
 ### 2. Classification
-**Dataset:** [Mobile Price Classification — Kaggle (A. Sharma)](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
+**Dataset:** [Mobile Price Classification - Kaggle (A. Sharma)](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
 
 Benchmarks 10+ classification algorithms on a 4-class mobile pricing problem, with full hyperparameter tuning and model interpretability analysis.
 
@@ -34,7 +34,7 @@ Benchmarks 10+ classification algorithms on a 4-class mobile pricing problem, wi
 ---
 
 ### 3. Regression
-**Dataset:** [Student Performance — Kaggle (N. Narayan)](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
+**Dataset:** [Student Performance - Kaggle (N. Narayan)](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
 
 Validates regression assumptions and systematically evaluates regression techniques with cross-validation and regularization. Achieves R² ≈ 0.989.
 
@@ -43,7 +43,7 @@ Validates regression assumptions and systematically evaluates regression techniq
 ---
 
 ### 4. Unsupervised Learning
-**Datasets:** [Spotify Tracks — Kaggle (MaharshiPandya)](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) · [Sign Language MNIST — Kaggle (tecperson)](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
+**Datasets:** [Spotify Tracks - Kaggle (MaharshiPandya)](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) · [Sign Language MNIST - Kaggle (tecperson)](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
 
 Applies dimensionality reduction and clustering to both tabular and image data, including pixel-level image segmentation and t-SNE visualization of hand sign embeddings.
 
